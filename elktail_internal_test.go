@@ -6,8 +6,9 @@
 package main
 
 import (
-	tu "github.com/knes1/elktail/testutils"
 	"testing"
+
+	tu "github.com/makasimorg/elktail/testutils"
 )
 
 func TestExtractDate(t *testing.T) {

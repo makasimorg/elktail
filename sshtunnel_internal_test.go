@@ -6,9 +6,10 @@
 package main
 
 import (
-	"github.com/knes1/elktail/testutils"
 	"os"
 	"testing"
+
+	"github.com/makasimorg/elktail/testutils"
 )
 
 func TestNewSSHTunnelFromHostStrings(t *testing.T) {

@@ -6,8 +6,9 @@
 package main
 
 import (
-	"github.com/knes1/elktail/testutils"
 	"testing"
+
+	"github.com/makasimorg/elktail/testutils"
 )
 
 func TestResolveField(t *testing.T) {
